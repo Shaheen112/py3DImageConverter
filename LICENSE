@@ -58,7 +58,7 @@ py3DImageConverter can be integrated with Telegram using a Telegram bot. Follow 
 
 1. Create a new bot on Telegram by talking to the BotFather and obtaining an API token.
 
-2. In the `py3DImageConverter.py` file, replace `"YOUR_API_TOKEN"` with the actual API token obtained from the BotFather.
+2. In the `py3DImageConverter.py` file, replace `"6099044594:AAEiEsVzmxp0sF956wG2X4BrSiSPEra020c"` with the actual API token obtained from the BotFather.
 
 3. Configure the necessary Telegram bot API methods to handle user requests and send/receive images.
 
